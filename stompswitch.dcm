@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP StompSwitch_SPST
+D SPST SPST 1P1T guitar stomp momentary switch 6A 125V AC,  3A 250V AC (OOTDTY/SWILET/DaierTek)
+K SPST SPST 1P1T guitar stomp momentary switch OOTDTY SWILET DaierTek
+$ENDCMP
+#
+#End Doc Library

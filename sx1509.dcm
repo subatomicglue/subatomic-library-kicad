@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPARKFUN_SX1509
+D SPARKFUN IC GPIO EXPANDER I2C 16CH 28QFN
+K SPARKFUN SX1509 IO EXPANDER I2C
+F https://www.semtech.com/uploads/documents/sx150x_89b.pdf
+$ENDCMP
+#
+$CMP SX1509BIULTRT
+D IC GPIO EXPANDER I2C 16CH 28QFN
+K SX1509BIULCT-ND
+F https://www.semtech.com/uploads/documents/sx150x_89b.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_UNO_R3
+D Arduino UNO Microcontroller Module, release 3
+K Arduino UNO R3 Microcontroller Module Atmel AVR USB
+F https://www.arduino.cc/en/Main/arduinoBoardUno
+$ENDCMP
+#
+$CMP Jumper_NC_Dual
+D Dual jumper, normally closed
+K jumper bridge link NC
+F ~
+$ENDCMP
+#
+$CMP LED2mm
+D Light emitting diode
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP Neutrik_635_Stereo_Switched
+D Neutrick Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)
+K audio jack receptacle stereo headphones connector
+F ~
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP R_selector
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP SPARKFUN_SX1509
+D SPARKFUN IC GPIO EXPANDER I2C 16CH 28QFN
+K SPARKFUN SX1509 IO EXPANDER I2C
+F https://www.semtech.com/uploads/documents/sx150x_89b.pdf
+$ENDCMP
+#
+$CMP StompSwitch_SPST
+D SPST SPST 1P1T guitar stomp momentary switch 6A 125V AC,  3A 250V AC (OOTDTY/SWILET/DaierTek)
+K SPST SPST 1P1T guitar stomp momentary switch OOTDTY SWILET DaierTek
+$ENDCMP
+#
+#End Doc Library

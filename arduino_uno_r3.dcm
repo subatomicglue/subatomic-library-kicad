@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_UNO_R3
+D Arduino UNO Microcontroller Module, release 3
+K Arduino UNO R3 Microcontroller Module Atmel AVR USB
+F https://www.arduino.cc/en/Main/arduinoBoardUno
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Neutrik_635_Stereo_Switched
+D Neutrick Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)
+K audio jack receptacle stereo headphones connector
+F ~
+$ENDCMP
+#
+#End Doc Library
